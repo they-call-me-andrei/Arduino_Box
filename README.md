@@ -14,4 +14,4 @@
 ->speaker 
 
 **Details**   
-->I have documented the project's evolution and the final result in the attached zip archive.
+->I have documented the project's evolution and the final result in the attached .rar archive.
